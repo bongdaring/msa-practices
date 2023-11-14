@@ -1,0 +1,13 @@
+
+# maven
+**/target/
+**/build/
+**/out
+
+# eclipse, sts
+**/.settings
+**/.classpath
+**/.project
+**/.fatorypath
+**/.sts4-cache
+**/.springBeans
